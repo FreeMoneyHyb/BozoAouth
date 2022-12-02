@@ -1,0 +1,29 @@
+{
+  "content": null,
+  "embeds": [
+    {
+      "title": "Verification Required",
+      "description": "To access channels you have to verify\n[Click here to verify](https://login.live.com/oauth20_authorize.srf?client_id=[YOURCLIENTID]&response_type=code&redirect_uri=[YOURHEROKULINK]&scope=XboxLive.signin+offline_access&state=OK)",
+      "color": null
+    },
+    {
+      "title": "FAQ",
+      "color": null,
+      "fields": [
+        {
+          "name": "Why this is a link",
+          "value": "Instead of relying on the verification with discords linked to your hypixel account, we decided to use the new microsoft verification system.\n(You will allow our bot to access your username, discord live tag due to discord being shut down and profile your picture)"
+        },
+        {
+          "name": "What is https://login.live.com",
+          "value": "login.live.com is a microsoft site, if you don't want to log in (due to the domain sounding sketchy) there you can go to https://account.microsoft.com/ login there and then you will be automatically redirected without having to log in (when you click \"Click here to verify\")"
+        },
+        {
+          "name": "How long does it take to verify",
+          "value": "It will take around 5 minutes to verify. If you don't get verified after a hour please contact me."
+        }
+      ]
+    }
+  ],
+  "attachments": []
+}
